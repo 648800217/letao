@@ -1,0 +1,13 @@
+.body{
+    background-color: #222d32;
+}
+.panel-default > .panel-heading {
+    background-color: skyblue;
+    font-size: 25px;
+}
+.col-lg-4.text-center.col-lg-offset-4{
+    padding-top: 250px;
+}
+.form-group .col-sm-offset-3{
+    margin-left: 72px;
+}
